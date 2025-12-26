@@ -274,4 +274,4 @@ Optimal depth (18 layers) without excessive complexity
             Low Params    High Params
 ```
 
-
+![ResCo-Mini Architecture](results/ResCo-Mini.h5.png)
