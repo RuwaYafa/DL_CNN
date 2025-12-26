@@ -1,5 +1,5 @@
 # ResCo-Mini: Arabic Handwritten Digit Recognition 
-
+![ResCo-Mini Architecture](results/Arc_CNN_stackstyle.png)
 > **A Novel CNN Architecture employing Residual Connection Networks for Arabic Handwritten Digit Recognition**
 
 Achieving **99.24% accuracy** with only **606K parameters** — 96× smaller than AlexNet while outperforming it!
