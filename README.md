@@ -1,4 +1,4 @@
-# ResCo-Mini: Arabic Handwritten Digit Recognition 
+# ResCo-Mini: A Novel CNN Architecture for Arabic Handwritten Digit Recognition employing Residual Connection Network
 ![ResCo-Mini Architecture](results/Arc_CNN_stackstyle.png)
 > **A Novel CNN Architecture employing Residual Connection Networks for Arabic Handwritten Digit Recognition**
 
